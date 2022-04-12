@@ -53,14 +53,14 @@ h2,
 .london,
 hr {
   position: relative;
-  bottom: 55px;
+  bottom: 60px;
 }
 span {
   color: hsl(227, 10%, 46%);
 }
 hr {
   color: hsl(227, 10%, 46%);
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .count {
   display: flex;
@@ -69,6 +69,7 @@ hr {
   bottom: 50px;
 }
 .counts {
+  margin-top: -10px;
   margin-right: 5%;
   margin-left: 5%;
 }
